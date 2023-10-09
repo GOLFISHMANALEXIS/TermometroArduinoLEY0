@@ -56,3 +56,17 @@ En la física y la termodinámica, la **Ley 0** establece que si dos sistemas es
 ## Conclusión
 
 Esta aplicación práctica de la Ley 0 de la Termodinámica utilizando un sensor de temperatura y una pantalla OLED conectados a una placa Arduino demuestra cómo se puede verificar el equilibrio térmico entre dos sistemas físicos. La visualización en tiempo real de las temperaturas en la pantalla OLED facilita la comparación y verificación del equilibrio térmico según los principios fundamentales de la termodinámica. Este experimento proporciona una herramienta útil y didáctica para estudiar y comprender conceptos termodinámicos básicos de una manera interactiva y accesible.
+
+
+
+
+
+---
+
+
+<p align="center">
+  <img src="ref.jpeg" width="400" />
+</p>
+<p align="center">
+  <i>REPRESENTACION</i>
+</p>
